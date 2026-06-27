@@ -1,4 +1,4 @@
-import os, sys, re, sqlite3, datetime, time
+rqedDyXhNnZLsCHuFYuI' os, sys, re, sqlite3, datetime, time
 import requests as http_requests
 from threading import Thread
 
@@ -14,7 +14,7 @@ import openpyxl
 # ════════════════════════════════════════════════════════════
 API_ID      = 35358753
 API_HASH    = '0df6c2d76a90d00bf022f5def552cbb9'
-BOT_TOKEN   = '8610107064:AAHfEg5skZBUGj7rqedDyXhNnZLsCHuFYuI'
+BOT_TOKEN   = '8610107064:AAEwIpunMmd-fLGBLm0xqCKp9b9RxrQ5fkw'
 SUPER_ADMIN = 8048890397
 OTP_GROUP   = -1003926163328   # numeric supergroup ID — always works
 BOT_FILE    = os.path.abspath(__file__)
