@@ -1,4 +1,4 @@
-rqedDyXhNnZLsCHuFYuI' os, sys, re, sqlite3, datetime, time
+import os, sys, re, sqlite3, datetime, time
 import requests as http_requests
 from threading import Thread
 
